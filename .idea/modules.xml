@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlogReader.iml" filepath="$PROJECT_DIR$/.idea/BlogReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appcompat_v7_4/appcompat_v7_4.iml" filepath="$PROJECT_DIR$/../appcompat_v7_4/appcompat_v7_4.iml" />
+    </modules>
+  </component>
+</project>
+
